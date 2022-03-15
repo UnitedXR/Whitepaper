@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Why, How, What](README.md)
