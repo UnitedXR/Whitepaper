@@ -10,10 +10,13 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * Completely open to anyone to copy or use in any way
   * We prioritize working with other open-source projects
 * **Decentralized**
-  * Decentralized solutions to problems are prioritized.
+  * Decentralized solutions to problems are prioritized
+  * File storage will use IPFS via the Filebase API
+  * Data from the user is owned by the user
+  * Our governance and tokens are decentralized by design
 * **Regenerative Token Economics**
-  * All services are effectively free to the user
-  * Users must stake tokens to access certain features
+  * All services are effectively **free** to the user
+  * Users must stake tokens to sell their content and projects
   * We use staked tokens to generate yield via decentralized finance (Defi)
   * Stakers can retrieve their tokens along with a portion of the yield from Defi
 * **Fairly Launched**
@@ -29,11 +32,11 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * [Aragon Voice](https://voice.aragon.org/tokens/info/#/0xce0b56632ba8322264806d0c79a2bbfc6f8c6934) is used for signaling support from the community via voting&#x20;
   * Communication between DAO members happens primarily via our [Discord](https://discord.com/invite/fV2SjJzEUr)
   * Quadratic voting and Encrypted (hidden) voting will be used to ensure bad actors and outsized UXR token holders cannot strongarm votes
-  * Reputation within the community provides additional governance power
+  * Reputation within the community will be used to provide additional voting power
 * **Audited**
   * UXR token will be audited to ensure it is not a security under USA securities law.
   * Our XR Player will appear within high-security Web3 wallets and marketplaces
-  * Therefore all our XR Player code will be audited by the community for security
+  * Therefore all our XR Player codes will be audited by the community for security
   * In addition, code and projects sold within our marketplace will be audited&#x20;
 
 ## Vision
