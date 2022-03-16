@@ -20,7 +20,7 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * We use staked tokens to generate yield via decentralized finance (Defi)
   * Stakers can retrieve their tokens along with a portion of the yield from Defi
 * **Fairly Launched**
-  * We will work with [Gitcoin](https://gitcoin.co), [Klima](https://klima.com) and other Impact DAOs to raise startup donations
+  * We will work with [Gitcoin](https://gitcoin.co), [Klima](https://klima.com), and other Impact DAOs to raise startup donations
   * We will prioritize paying back any startup costs covered directly by members
   * Selling UXR tokens prelaunch will only be done if absolutely necessary to pay for costs
   * All pre-launch sold tokens will have clearly defined sell walls and lockup periods
@@ -34,8 +34,11 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * Communication between DAO members happens primarily via our [Discord](https://discord.com/invite/fV2SjJzEUr)
   * Quadratic voting and Encrypted (hidden) voting will be used to ensure bad actors and outsized UXR token holders cannot strongarm votes
   * Reputation within the community will be used to provide additional voting power
+* **Decentralized Token**
+  * We are designing our token to not be a security under the United States Howey test
+  * We will pay for a Web3 proficient lawyer to confirm our token is not a security
+  * If needed for limited liability protection, we will incorporate in a Web3 friendly country
 * **Audited**
-  * UXR token will be audited to ensure it is not a security under USA securities law.
   * Our XR Player will appear within high-security Web3 wallets and marketplaces
   * Therefore all our XR Player codes will be audited by the community for security
   * In addition, code and projects sold within our marketplace will be audited&#x20;
