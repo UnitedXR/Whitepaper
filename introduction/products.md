@@ -2,10 +2,11 @@
 
 Our XR ecosystem has five open-source MIT licensed products.
 
-* XR Project Standards
-  * JSON used to interpret XR projects
+* XR JSON
+  * Used to define an XR project
 * XR Player
   * Displays XR projects that follow XR project standards
+  * Displays individual pieces of XR content
 * XR Marketplace
   * NFT marketplace to buy and sell XR content and projects
 * XR Wizards
