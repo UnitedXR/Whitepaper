@@ -17,6 +17,8 @@ XR JSON contains information about the following.
 * XR Context
   * Required or preferred
   * Fallback option
+    * Backup contexts to use
+    * or user redirection instructions
 * NFT Information
   * Blockchain
   * ID
