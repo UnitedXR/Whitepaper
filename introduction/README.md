@@ -20,10 +20,11 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * We use staked tokens to generate yield via decentralized finance (Defi)
   * Stakers can retrieve their tokens along with a portion of the yield from Defi
 * **Fairly Launched**
-  * A minimal amount of tokens are sold prelaunch to pay for startup costs
-  * Any presold tokens have clearly defined sell walls
-  * The vast majority of tokens are sold at our public launch
-  * Tokens are always sold to the community in a fair way that ensures decentralization
+  * We will work with [Gitcoin](https://gitcoin.co), [Klima](https://klima.com) and other Impact DAOs to raise startup donations
+  * We will prioritize paying back any startup costs covered directly by members
+  * Selling UXR tokens prelaunch will only be done if absolutely necessary to pay for costs
+  * All pre-launch sold tokens will have clearly defined sell walls and lockup periods
+  * Our goal is to have all tokens sold to the community in a fair decentralized way
   * We plan to use [Copper](https://copperlaunch.com) to generate our fair value launched liquidity pools
 * **Publicly Owned**
   * Governance & ownership is distributed to all tokens holders
