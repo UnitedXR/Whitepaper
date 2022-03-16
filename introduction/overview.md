@@ -16,4 +16,4 @@ The strategy of being open and free makes us the #1 place to create, share, buy,
 
 Collaboration is encouraged in our system, as it is more profitable for all involved to hold our token and work together than to directly compete.
 
-A portion of our proceeds are donated to other Impact DAOs such as Klima, as well as to open source game engine development.
+A portion of our proceeds are donated to other Impact DAOs such as [Klima](https://klima.com), as well as to open source game engines like [Babylon.js](https://www.babylonjs.com) and [Godot](https://godotengine.org).
