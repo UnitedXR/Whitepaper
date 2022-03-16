@@ -1,6 +1,11 @@
 # Principles
 
-* UnitedXR is not a company. We do not have a management team or employees.&#x20;
-  * We are a collection of builders and stakeholders who hold UXR tokens and are motivated to make the project a success.
-* Anyone can create proposals for UnitedXR. UXR token holders will vote on whether to approve or reject these proposals.
-* Holding UXR entitles holders to submit and vote on proposals. It does not entitle holders to impose their will upon other contributors.
+* UnitedXR is a collective, not a company.&#x20;
+  * We do not have a management team or employees.&#x20;
+  * We are a collection of builders and stakeholders.
+  * Everyone that holds the UXR token is motivated to make this public good a success.
+* Any UXR token holder can create proposals for UnitedXR.
+* Proposals should provide proof of community agreement.
+* UXR token holders have the option to block proposals.
+* Holding UXR entitles you to vote on proposals.&#x20;
+* Holders are not entitled to impose their will upon others.

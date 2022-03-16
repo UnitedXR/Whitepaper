@@ -6,7 +6,7 @@ Current market solutions are fragmented within multiple walled gardens using clo
 
 To disrupt the market, all of our services are effectively free through the use of regenerative token economics.
 
-All profits for XR sales are passed to the seller. We take 0% of sales.
+All profits for XR sales in our marketplace are passed to the seller. We take 0% of sales.
 
 However, to sell on our ecosystem, you must stake a certain amount of tokens first.&#x20;
 
