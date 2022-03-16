@@ -1,8 +1,19 @@
 # What Is XR?
 
-XR stands for extended reality. It refers to an XR project that can be used in the real world and all digital worlds.
+XR stands for extended reality.
 
-An XR project is made up of three things.
+To say that content or a project is XR means it is capable of one or more of the following.
+
+* **3D**
+  * Appearing within its own discrete space in three dimensions
+* **AR - Augmented Reality**
+  * Overlayed and augmenting the real world
+* **MR - Mixed Reality**
+  * Contextually aware and mixed in with the real world
+* **VR - Virtual Reality**
+  * Allowing the user to inhabit a discrete digital space with multiple senses
+
+An XR project is made up of three parts.
 
 * XR JSON
 * XR Content
@@ -10,33 +21,31 @@ An XR project is made up of three things.
 
 ## What Is XR JSON?
 
-Each XR project is defined using a standardized JSON file. This file describes your project so it can be interpreted by an XR Player.
+Each XR project is defined using a standardized JSON file. This file describes a project so it can be interpreted by an XR Player.
 
 XR JSON contains information about the following.
 
 * XR Context
-  * Required or preferred
-  * Fallback option
-    * Backup contexts to use
-    * or user redirection instructions
+  * Is this XR context a requirement or just preferred?
+  * Fallback options, what if the XR we want isn't available?
 * NFT Information
   * Blockchain
   * ID
-* Description
+* Info
   * Creator
   * Owner
   * Title
-  * Descriptor
+  * Description
 * Thumbnail
   * Images
   * Videos
 * Camera
   * Start position & rotation
-  * other settings
+  * Field of View and other settings
 * Controls
-  * Starting controls per context
+  * The preferred method for users to manipulate the project
 * Background
-  * Colors, Gradients, Images, Videos
+  * What Colors, Gradients, Images, Videos make up the background?
 * Content information
   * Location, position, and scale
   * Storage info
@@ -57,7 +66,7 @@ XR is made of various types of content including...
 * Code
 * User Interfaces
 
-By combining content, it is possible to create _**anything**_ imaginable.
+By defining an XR JSON with content, it is possible to create _**anything**_ imaginable.
 
 ## XR Context
 
