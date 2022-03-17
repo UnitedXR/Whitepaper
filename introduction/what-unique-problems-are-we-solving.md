@@ -1,13 +1,17 @@
 # What Unique Problems Are We Solving?
 
-UnitedXR is solving multiple problems in the existing XR ecosystems.
+UnitedXR's ecosystem solves multiple problems.
 
-* NFTs are limited to static content
-* NFTs cannot display multiple pieces of content at once
-* NFTs cannot safely or securely run software
-* NFTs cannot use the XR capabilities of the device
-* No Web3 marketplaces exist that sell XR content or projects
-* Current XR players are not decentralized
-* No open-source XR player exists
-* Current XR players can pass Web3 security audits due to closed-source code and centralization
-  * Prevents current players from being used in NFT marketplaces and wallets
+* NFTs
+  * Cannot use the XR capabilities of a device
+  * Limited to static content that cannot change
+  * Only one piece of content at a time
+  * Cannot run code safely
+* Marketplaces
+  * No marketplace of marketplaces within Web3, ala Amazon
+  * Marketplaces take a royalty cut from sellers
+  * No XR content or projects in current Web3 marketplaces
+* XR Players
+  * No open-source global standard
+  * No decentralized player usable by everyone
+  * Cannot pass security audits necessary for Web3 wallet & marketplace integrations
