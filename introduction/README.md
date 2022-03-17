@@ -15,7 +15,7 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * Data from the user is owned by the user
   * Our governance and tokens are decentralized by design
 * **Regenerative Token Economics**
-  * All services are effectively **free** to the user
+  * All services are effectively <mark style="color:green;">**free**</mark> to the user
   * Users must stake tokens to sell their content and projects
   * We use staked tokens to generate yield via decentralized finance (Defi)
   * Stakers can retrieve their tokens along with a portion of the yield from Defi
@@ -41,7 +41,7 @@ In order to be a public good, we are creating an ecosystem of XR products with t
 * **Audited**
   * Our XR Player will appear within high-security Web3 wallets and marketplaces
   * Therefore all our XR Player codes will be audited by the community for security
-  * In addition, code and projects sold within our marketplace will be audited&#x20;
+  * In addition, code and projects sold within our marketplace can be audited as well so that they can also be used in high-security scenarios
 
 ## Vision
 
