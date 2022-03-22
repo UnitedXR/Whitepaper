@@ -1,7 +1,5 @@
 ---
-description: >-
-  Why should existing Web2 XR ecosystems work together to build the open Web3
-  UnitedXR ecosystem?
+description: Why should existing Web2 XR ecosystems work together to build UnitedXR?
 ---
 
 # Why Work Together?
