@@ -3,15 +3,15 @@
 UnitedXR's ecosystem solves multiple problems.
 
 * NFTs
-  * Cannot use the XR capabilities of a device
-  * Limited to static content that cannot change
-  * Only one piece of content at a time
+  * Current NFTs cannot easily access the XR capabilities of a device
+  * NFT content is usually static and cannot change over time
+  * Cannot show multiple pieces of content at the same time
   * Cannot run code safely
 * Marketplaces
-  * No marketplace of marketplaces within Web3, ala Amazon
-  * Marketplaces take a royalty cut from sellers
-  * No XR content or projects in current Web3 marketplaces
+  * XR content is currently spread across multiple closed marketplaces
+  * Current marketplaces take a royalty cut from sellers
+  * No current XR NFT marketplace
 * XR Players
   * No open-source global standard
   * No decentralized player usable by everyone
-  * Cannot pass security audits necessary for Web3 wallet & marketplace integrations
+  * Current players cannot pass security audits necessary for Web3 wallet and marketplace integrations
