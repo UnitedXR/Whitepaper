@@ -26,23 +26,31 @@ According to [<mark style="color:green;">NonFungible</mark>](https://nonfungible
 
 | NFT Type     | NFTs Minted | Active Wallets |
 | ------------ | ----------- | -------------- |
-| Art          | 400,000     | 150,000        |
-| Collectibles | 2,400,000   | 480,000        |
 | Gaming       | 15,000,000  | 1,880,000      |
-| Metaverses   | 58,000      | 44,000         |
+| Collectibles | 2,400,000   | 480,000        |
+| Art          | 400,000     | 150,000        |
 | Utility      | 330,000     | 222,000        |
+| Metaverses   | 58,000      | 44,000         |
 
-## What Percentage Of The NFT Market Will UnitedXR Serve?
+In 2021, there were roughly **4.6 million NFTs minted** across **2.7 million wallets**.
 
-UnitedXR has the potential to become the dominant leader for 80% of the NFT market.
+## What NFT Categories Do We Serve?
 
-We align closest with the Art, Collectibles, Gaming, and Metaverse categories of NFT sales.
+UnitedXR's ecosystem is most effective in the categories of gaming, collectibles, art, and metaverses. In 2021 this was a combined size of 4.3 million NFTs across 2.5 million wallets.&#x20;
 
-This is due to our unique regenerative token economics approach where we do not take a cut of sales. This should lead to a dominant share of the NFT market.
+The Utility category covers NFTs without a visual aspect, like governance NFTs in DAOs and ENS domains. These are specific and usually don't need an open marketplace to sell on.
 
-The remaining Utility category of NFTs can only partially use our ecosystem, as it contains NFTs with no visual representation and an existing purpose such as ENS domain sales.
+## What Is Your Potential Market Share?
 
-We estimate&#x20;
+Based on the NFT categories we serve, our maximum potential is to sell 90% of all NFTs.
+
+More realistically, we'll likely capture 40%-60% market share.
+
+The assumption is that the other NFT marketplaces will adapt to our innovations in order to stay relevant, this will lessen our potential market share.
+
+The easiest response other marketplaces can do is also switch to a similar regenerative token economic model we are using.
+
+In this scenario, we still have our fully decentralized nature and unique XR tools in our ecosystem that will give us a unique edge.
 
 ## XR Creators
 
