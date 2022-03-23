@@ -13,3 +13,4 @@
   * [Market Size \[IN-PROGRESS\]](market-overview/market-size-in-progress.md)
     * [Total XR Market Size](market-overview/market-size-in-progress/total-xr-market-size.md)
     * [NFTs Market](market-overview/market-size-in-progress/nfts-market.md)
+    * [XR Content Marketplaces](market-overview/market-size-in-progress/xr-content-marketplaces.md)
