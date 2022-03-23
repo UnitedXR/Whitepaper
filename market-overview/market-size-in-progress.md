@@ -28,7 +28,7 @@ According to [<mark style="color:green;">NonFungible</mark>](https://nonfungible
 
 Over 400,000 NFTs were minted across nearly 150,000 wallets.
 
-\[Discuss other NFT market sizes, from page 118 of the NonFungible report onwards]
+\[Discuss other NFT market sizes, from page 111 of the NonFungible report onwards]
 
 Of the existing NFT market size, UnitedXR has the potential to become the dominant market leader due to its regenerative token economics and not taking a cut of profits from each sale like existing marketplaces.
 
