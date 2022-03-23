@@ -10,6 +10,8 @@ description: >-
 
 Based on available data from <mark style="color:green;">imarc</mark> and [<mark style="color:green;">MarketWatch</mark>](https://www.marketwatch.com/press-release/extended-reality-xr-market-size-2021-covid-19-impact-analysis-by-industry-trends-future-demands-growth-factors-emerging-technologies-prominent-players-future-plans-and-forecast-till-2030-2022-01-07), the total market size of XR is rising from $42 billion in 2021 to $465 billion by 2027 with a compounding annual growth rate (CAGR) of 46.20%.
 
+![](../.gitbook/assets/bar-graph.png)
+
 We can draw some conclusions from this data.
 
 * The \~46% annual growth rate includes hardware and software,&#x20;
@@ -26,7 +28,24 @@ According to [<mark style="color:green;">NonFungible</mark>](https://nonfungible
 
 #### Crypto Art
 
-Over 400,000 NFTs were minted across nearly 150,000 wallets.
+NFTs where the main point is to be viewed as art. \
+Contains works like Beeple’s s “EVERYDAYS: THE 5,000 FIRST DAYS”
+
+Over 400,000 NFTs were minted across nearly 150,000 active wallets.
+
+#### Crypto Collectibles
+
+Contains crypto punks, bored apes, and other NFTs where the main point is to collect them.
+
+Over 2,400,000 NFTs were minted across 480,000 active wallets
+
+#### Crypto Gaming
+
+NFTs minted by Web3 connected games.
+
+Over ??? NFTs were minted across ??? active wallets
+
+
 
 \[Discuss other NFT market sizes, from page 111 of the NonFungible report onwards]
 
