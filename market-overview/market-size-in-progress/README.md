@@ -8,15 +8,7 @@ description: >-
 
 ## Total XR Market Size
 
-Based on available data from <mark style="color:green;">imarc</mark> and [<mark style="color:green;">MarketWatch</mark>](https://www.marketwatch.com/press-release/extended-reality-xr-market-size-2021-covid-19-impact-analysis-by-industry-trends-future-demands-growth-factors-emerging-technologies-prominent-players-future-plans-and-forecast-till-2030-2022-01-07), the total market size of XR is rising from $42 billion in 2021 to $465 billion by 2027 with a compounding annual growth rate (CAGR) of 46.20%.
 
-![](../.gitbook/assets/bar-graph.png)
-
-We can draw some conclusions from this data.
-
-* The \~46% annual growth rate includes hardware and software,&#x20;
-* The growth of UnitedXR's market may be different since its software only
-* It is very likely that the market size UnitedXR serves is growing each year
 
 ## NFTs Market Overview
 
@@ -54,6 +46,10 @@ In this scenario, we still have our fully decentralized nature and unique XR too
 
 ## XR Creators
 
+Snap # of filters made
+
+Sketchfab # of projects made
+
 Estimated number of creators that would sell XR projects using our ecosystem
 
 ## XR Engineers
@@ -61,5 +57,27 @@ Estimated number of creators that would sell XR projects using our ecosystem
 Estimated number of engineers that use closed source XR ecosystems
 
 ## XR Marketplaces
+
+Sketchfab
+
+CG Trader
+
+TurboSquid
+
+Creative Market
+
+Sculpteo
+
+3D Export
+
+Codebrush
+
+Blender Market
+
+Hum3D
+
+3DRT
+
+Highend3D
 
 Estimated number of sales existing XR content marketplaces get

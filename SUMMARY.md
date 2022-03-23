@@ -10,4 +10,5 @@
 * [Market Overview](market-overview.md)
   * [Challenges Of XR](market-overview/challenges-of-xr.md)
   * [Why Work Together?](market-overview/why-work-together.md)
-  * [Market Size \[IN-PROGRESS\]](market-overview/market-size-in-progress.md)
+  * [Market Size \[IN-PROGRESS\]](market-overview/market-size-in-progress/README.md)
+    * [Total XR Market Size](market-overview/market-size-in-progress/total-xr-market-size.md)
