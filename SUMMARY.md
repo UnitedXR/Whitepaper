@@ -10,6 +10,6 @@
 * [Market Overview](market-overview.md)
   * [Challenges Of XR](market-overview/challenges-of-xr.md)
   * [Why Work Together?](market-overview/why-work-together.md)
-  * [Market Size \[IN-PROGRESS\]](market-overview/market-size-in-progress/README.md)
+  * [Market Size \[IN-PROGRESS\]](market-overview/market-size-in-progress.md)
     * [Total XR Market Size](market-overview/market-size-in-progress/total-xr-market-size.md)
-    * [Page 1](market-overview/market-size-in-progress/page-1.md)
+    * [NFTs Market](market-overview/market-size-in-progress/nfts-market.md)
