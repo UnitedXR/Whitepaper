@@ -18,38 +18,35 @@ We can draw some conclusions from this data.
 * The growth of UnitedXR's market may be different since its software only
 * It is very likely that the market size UnitedXR serves is growing each year
 
-## XR Creators
-
-Estimated number of creators that would sell XR projects using our ecosystem
-
-## NFTs
+## NFTs Market Overview
 
 According to [<mark style="color:green;">NonFungible</mark>](https://nonfungible.com/reports/2021/en/yearly-nft-market-report), the market for NFTs in 2021 was $15 billion with 2 million active wallets. Up from $18 million across 80,000 wallets in 2020.
 
-#### Crypto Art
+#### Estimated NFT Market 2021 from NonFungible
 
-NFTs where the main point is to be viewed as art. \
-Contains works like Beeple’s s “EVERYDAYS: THE 5,000 FIRST DAYS”
+| NFT Type     | NFTs Minted | Active Wallets |
+| ------------ | ----------- | -------------- |
+| Art          | 400,000     | 150,000        |
+| Collectibles | 2,400,000   | 480,000        |
+| Gaming       | 15,000,000  | 1,880,000      |
+| Metaverses   | 58,000      | 44,000         |
+| Utility      | 330,000     | 222,000        |
 
-Over 400,000 NFTs were minted across nearly 150,000 active wallets.
+## What Percentage Of The NFT Market Will UnitedXR Serve?
 
-#### Crypto Collectibles
+UnitedXR has the potential to become the dominant leader for 80% of the NFT market.
 
-Contains crypto punks, bored apes, and other NFTs where the main point is to collect them.
+We align closest with the Art, Collectibles, Gaming, and Metaverse categories of NFT sales.
 
-Over 2,400,000 NFTs were minted across 480,000 active wallets
+This is due to our unique regenerative token economics approach where we do not take a cut of sales. This should lead to a dominant share of the NFT market.
 
-#### Crypto Gaming
+The remaining Utility category of NFTs can only partially use our ecosystem, as it contains NFTs with no visual representation and an existing purpose such as ENS domain sales.
 
-NFTs minted by Web3 connected games.
+We estimate&#x20;
 
-Over ??? NFTs were minted across ??? active wallets
+## XR Creators
 
-
-
-\[Discuss other NFT market sizes, from page 111 of the NonFungible report onwards]
-
-Of the existing NFT market size, UnitedXR has the potential to become the dominant market leader due to its regenerative token economics and not taking a cut of profits from each sale like existing marketplaces.
+Estimated number of creators that would sell XR projects using our ecosystem
 
 ## XR Engineers
 
