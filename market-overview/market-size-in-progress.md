@@ -40,7 +40,7 @@ UnitedXR's ecosystem is most effective in the categories of gaming, collectibles
 
 The Utility category covers NFTs without a visual aspect, like governance NFTs in DAOs and ENS domains. These are specific and usually don't need an open marketplace to sell on.
 
-## What Is Your Potential Market Share?
+## What Is Our Potential NFT Market Share?
 
 Based on the NFT categories we serve, our maximum potential is to sell 90% of all NFTs.
 
@@ -50,7 +50,7 @@ The assumption is that the other NFT marketplaces will adapt to our innovations 
 
 The easiest response other marketplaces can do is also switch to a similar regenerative token economic model we are using.
 
-In this scenario, we still have our fully decentralized nature and unique XR tools in our ecosystem that will give us a unique edge.
+In this scenario, we still have our fully decentralized nature and unique XR tools in our ecosystem that will give us an edge.
 
 ## XR Creators
 
