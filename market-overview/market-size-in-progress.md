@@ -20,9 +20,15 @@ We can draw some conclusions from this data.
 
 Estimated number of creators that would sell XR projects using our ecosystem
 
-## XR NFT Creators
+## NFTs
 
-Estimated number of NFT creators that would sell NFTs with XR capabilities
+According to [<mark style="color:green;">NonFungible</mark>](https://nonfungible.com/reports/2021/en/yearly-nft-market-report), the market for NFTs in 2021 was $15 billion with 2 million active wallets. Up from $18 million across 80,000 wallets in 2020.
+
+#### Crypto Art
+
+Over 400,000 NFTs were minted across nearly 150,000 wallets.
+
+Of the existing NFT market size, UnitedXR has the potential to become the dominant market leader due to its regenerative token economics and not taking a cut of profits from each sale like existing marketplaces.
 
 ## XR Engineers
 
