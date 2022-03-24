@@ -23,7 +23,13 @@ These statistics combine 3D models, materials, textures, and animations listed f
 | Hum3D           | 20,000         | 250,000   | NA              |
 | Highend3D       | 74,402         | Unknown   | 45%             |
 
-
-
 ## Videos
 
+Over ??? videos are available across various markets.\
+These statistics combine 2D, 180, 360, and VR videos listed for sale or for free.
+
+| Market | Content Listed | Creators | Marketplace Cut |
+| ------ | -------------- | -------- | --------------- |
+|        |                |          |                 |
+|        |                |          |                 |
+|        |                |          |                 |
