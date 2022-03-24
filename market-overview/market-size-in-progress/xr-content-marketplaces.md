@@ -28,8 +28,10 @@ These statistics combine 3D models, materials, textures, and animations listed f
 Over ??? videos are available across various markets.\
 These statistics combine 2D, 180, 360, and VR videos listed for sale or for free.
 
-| Market | Content Listed | Creators | Marketplace Cut |
-| ------ | -------------- | -------- | --------------- |
-|        |                |          |                 |
-|        |                |          |                 |
-|        |                |          |                 |
+| Market       | Content Listed | Creators | Marketplace Cut |
+| ------------ | -------------- | -------- | --------------- |
+| Pond5        |                |          |                 |
+| Storyblocks  |                |          |                 |
+| Vimeo        |                |          |                 |
+| Artgrid      |                |          |                 |
+| Shutterstock |                |          |                 |
