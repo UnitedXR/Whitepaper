@@ -11,6 +11,7 @@ UnitedXR's ecosystem solves multiple problems.
   * XR content is currently spread across multiple closed marketplaces
   * Current marketplaces take a royalty cut from sellers
   * No current XR NFT marketplace
+  * Current marketplaces do not use Defi to pay back sellers and customers for participation
 * XR Players
   * No open-source global standard
   * No decentralized player usable by everyone
