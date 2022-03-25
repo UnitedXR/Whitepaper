@@ -28,11 +28,11 @@ These statistics combine 3D models, materials, textures, and animations listed f
 Over ??? videos are available across various markets.\
 These statistics combine 2D, 180, 360, and VR videos listed for sale or for free.
 
-| Market       | Content Listed | Creators | Marketplace Cut     |
-| ------------ | -------------- | -------- | ------------------- |
-| Pond5        | 30,000,000     | 60,000   | 30%-60%             |
-| Storyblocks  | 1,000,000      | 150,000  | NA                  |
-| Vimeo        | 1,000,000      |          | 10% with $20/mo fee |
-| Artgrid      |                |          |                     |
-| Shutterstock |                |          |                     |
-| Envato       |                |          |                     |
+| Market       | Content Listed | Creators  | Marketplace Cut     |
+| ------------ | -------------- | --------- | ------------------- |
+| Pond5        | 30,000,000     | 60,000    | 30%-60%             |
+| Storyblocks  | 1,000,000      | 150,000   | NA                  |
+| Vimeo        | 1,000,000      | 1,900,000 | 10% with $20/mo fee |
+| Artgrid      |                |           |                     |
+| Shutterstock |                |           |                     |
+| Envato       |                |           |                     |
