@@ -2,7 +2,7 @@
 
 | Ecosystem       | Used By              | Price                                    | Available On         | Code          | Store         |
 | --------------- | -------------------- | ---------------------------------------- | -------------------- | ------------- | ------------- |
-| UnitedXR        | Everyone             | Free. Stake to sell.                     | Web, app             | Open-source   | Open Market   |
+| UnitedXR        | Everyone             | Free-Over-Time                           | Web, app             | Open-source   | Open Market   |
 | BrandXR         | Everyday People      | $1000 per month                          | Web, app             | Closed-source | None          |
 | Vectary         | Creators             | Free - $12 per month                     | Web                  | Closed-source | None          |
 | Sketchfab       | Creators             | Free - $79 per month                     | Web, app             | Closed-source | Walled Garden |
