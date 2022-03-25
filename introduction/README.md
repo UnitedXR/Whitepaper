@@ -16,9 +16,11 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * Our governance and tokens are decentralized by design
 * **Regenerative Token Economics**
   * All services are effectively <mark style="color:green;">**free**</mark> to the user
-  * Users must stake tokens to sell their content and projects
+  * Marketplace uses Free-Over-Time economics to make the market effectively free for buyers and sellers.
+  * Sellers stake tokens based on estimated hosting costs
   * We use staked tokens to generate yield via decentralized finance (Defi)
-  * Stakers can retrieve their tokens along with a portion of the yield from Defi
+  * Seller's costs are refunded to them over-time via the Defi yield
+  * Buyers purchase goods from sellers, and tokens are sent to Defi for a period of time before being passed to the seller. This yield generation is used to eventually pay back the purchasing price of the good to the customer.
 * **Fairly Launched**
   * We will work with [Gitcoin](https://gitcoin.co), [Klima](https://klima.com), and other Impact DAOs to raise startup donations
   * We will prioritize paying back any startup costs covered directly by members
@@ -45,7 +47,7 @@ In order to be a public good, we are creating an ecosystem of XR products with t
 
 ## Vision
 
-An unstoppable public ecosystem of products that allows everyone to create, share, buy and sell XR content and projects.
+An unstoppable public ecosystem of products that allows everyone to freely create, share, buy and sell XR content and projects.
 
 ## Mission
 
