@@ -9,7 +9,7 @@ description: >-
 ## 3D Assets
 
 Over 5 million 3D assets are available across various markets.\
-These statistics combine 3D models, materials, textures, and animations listed for sale or free.
+These statistics combine 3D models, materials, textures, and animations listed for sale.
 
 | Market          | Content Listed | Creators  | Marketplace Cut |
 | --------------- | -------------- | --------- | --------------- |
@@ -25,8 +25,8 @@ These statistics combine 3D models, materials, textures, and animations listed f
 
 ## Videos
 
-Over ??? videos are available across various markets.\
-These statistics combine 2D, 180, 360, and VR videos listed for sale or for free.
+Over 57 million videos are available across various markets.\
+These statistics combine 2D, 180, 360, and VR stock videos listed for sale.
 
 | Market       | Content Listed | Creators  | Marketplace Cut     |
 | ------------ | -------------- | --------- | ------------------- |
