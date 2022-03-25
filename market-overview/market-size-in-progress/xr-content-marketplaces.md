@@ -1,9 +1,3 @@
----
-description: >-
-  To establish our potential market size, we can see how much XR content is
-  listed on existing content marketplaces.
----
-
 # XR Content Marketplaces
 
 Over 61 million pieces of XR content are available across various markets.\
