@@ -39,8 +39,7 @@ These statistics combine 2D, 180, 360, and VR stock videos listed for sale.
 
 ## Music & Sound Effects
 
-Over ?? million music and sound effects are available across various markets.\
-These statistics combine stock music and sound effects listed for sale.
+Over ?? million music and sound effects are available across various markets.
 
 | Market       | Content Listed | Creators | Marketplace Cut |
 | ------------ | -------------- | -------- | --------------- |
@@ -51,3 +50,14 @@ These statistics combine stock music and sound effects listed for sale.
 | Videvo       |                |          |                 |
 | Unity3D      |                |          |                 |
 | Unreal       |                |          |                 |
+
+## Images
+
+Over ?? million images are available across various markets.\
+These statistics combine 2D, 180, 360, and VR stock images listed for sale.
+
+| Market       | Content Listed | Creators | Marketplace Cut |
+| ------------ | -------------- | -------- | --------------- |
+| Pond5        |                |          |                 |
+| Storyblocks  |                |          |                 |
+| Shutterstock |                |          |                 |
