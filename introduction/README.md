@@ -14,7 +14,7 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * File storage will use IPFS via the Filebase API
   * Data from the user is owned by the user
   * Our governance and tokens are decentralized by design
-* **Regenerative Token Economics**
+* **Free-Over-Time**
   * All services are effectively <mark style="color:green;">**free**</mark> to the user
   * Marketplace uses Free-Over-Time economics to make the market effectively free for buyers and sellers.
   * Sellers stake tokens based on estimated hosting costs
