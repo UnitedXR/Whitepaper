@@ -31,8 +31,8 @@ These statistics combine 2D, 180, 360, and VR videos listed for sale or for free
 | Market       | Content Listed | Creators  | Marketplace Cut     |
 | ------------ | -------------- | --------- | ------------------- |
 | Pond5        | 30,000,000     | 60,000    | 30%-60%             |
-| Storyblocks  | 1,000,000      | 150,000   | NA                  |
+| Storyblocks  | 1,500,000      | 150,000   | NA                  |
 | Vimeo        | 1,000,000      | 1,900,000 | 10% with $20/mo fee |
-| Artgrid      |                |           |                     |
+| Artgrid      | 160,000        | Unknown   | 30%                 |
 | Shutterstock |                |           |                     |
 | Envato       |                |           |                     |
