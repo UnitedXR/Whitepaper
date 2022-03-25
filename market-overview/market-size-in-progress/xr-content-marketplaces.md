@@ -35,4 +35,4 @@ These statistics combine 2D, 180, 360, and VR videos listed for sale or for free
 | Vimeo        | 1,000,000      | 1,900,000 | 10% with $20/mo fee |
 | Artgrid      | 160,000        | Unknown   | 30%                 |
 | Shutterstock | 24,000,000     | 1,000,000 | 60%-85%             |
-| Envato       |                |           | 80%                 |
+| Envato       | 800,000        | 80,000    | 80%                 |
