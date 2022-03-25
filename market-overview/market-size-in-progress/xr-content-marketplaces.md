@@ -6,7 +6,7 @@ description: >-
 
 # XR Content Marketplaces
 
-Over ??? million pieces of XR content are available across various markets.\
+Over 61 million pieces of XR content are available across various markets.\
 These statistics combine 3D models, videos, images, and audio files for sale and free.
 
 | Market          | Content Listed | Creators  | Marketplace Cut    |
