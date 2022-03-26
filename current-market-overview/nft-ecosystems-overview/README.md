@@ -6,15 +6,15 @@ description: >-
 
 # NFT Ecosystems Overview
 
-| Ecosystem  | Cut Of Sales | Adult Content? | Code          | Blockchain                |
-| ---------- | ------------ | -------------- | ------------- | ------------------------- |
-| UnitedXR   | 0%           | Allowed        | Open-source   | Undecided                 |
-| OpenSea    | 2.5%         | Allowed        | Closed-source | Ethereum, Polygon, Klatyn |
-| Artion     | 0%           | Not Allowed    | Open-source   | Fantom                    |
-| AtomicHub  |              | Not Allowed    | Closed-source | WAX                       |
-| Rarible    | 2.5%         | Allowed        | Open-source   | Ethereum, Flow, Tezos     |
-| Superare   |              |                |               |                           |
-| Foundation |              |                |               |                           |
-|            |              |                |               |                           |
-|            |              |                |               |                           |
-|            |              |                |               |                           |
+| Ecosystem   | Cut Of Sales | Adult Content? | Code                               | Blockchain                |
+| ----------- | ------------ | -------------- | ---------------------------------- | ------------------------- |
+| UnitedXR    | 0%           | Allowed        | Open-source                        | Undecided                 |
+| OpenSea     | 2.5%         | Allowed        | Closed-source                      | Ethereum, Polygon, Klatyn |
+| Artion      | 0%           | Not Allowed    | Open-source                        | Fantom                    |
+| AtomicHub   | 2%           | Not Allowed    | Closed-source                      | WAX                       |
+| Rarible     | 2.5%         | Allowed        | <p>Partially</p><p>Open-source</p> | Ethereum, Flow, Tezos     |
+| Superare    |              | Not Allowed    |                                    |                           |
+| Foundation  |              | Not Allowed    |                                    |                           |
+| Mintable    |              |                |                                    |                           |
+| MakersPlace |              |                |                                    |                           |
+| BlockParty  |              |                |                                    |                           |
