@@ -8,4 +8,4 @@
 * Community members are empowered to take UnitedXR in the direction they want
 * If you see something you want to be done, discuss it and propose a solution
 * Don't be afraid to fork what we're doing and experiment with your own ideas.&#x20;
-* The goal is to collectively rise up together, and sometimes a fork is the best way to do that.
+* The goal is to collectively rise up together

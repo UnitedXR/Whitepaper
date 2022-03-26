@@ -1,4 +1,10 @@
-# Market Overview
+---
+description: >-
+  You can refer to this page to quickly see how we compare to other established
+  XR creation ecosystems
+---
+
+# XR Ecosystems Overview
 
 | Ecosystem       | Used By              | Price                                    | Available On         | Code          | Store         |
 | --------------- | -------------------- | ---------------------------------------- | -------------------- | ------------- | ------------- |
