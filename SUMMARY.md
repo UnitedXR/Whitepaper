@@ -11,7 +11,7 @@
   * [Challenges Of XR](introduction/challenges-of-xr.md)
 * [Current Market Overview](current-market-overview/README.md)
   * [NFT Ecosystems Overview](current-market-overview/nft-ecosystems-overview/README.md)
-    * [NFT Content Markets](current-market-overview/nft-ecosystems-overview/nft-content-markets.md)
+    * [NFT Categories](current-market-overview/nft-ecosystems-overview/nft-categories.md)
   * [XR Ecosystems Overview](current-market-overview/xr-ecosystems-overview/README.md)
     * [XR Market Growth](current-market-overview/xr-ecosystems-overview/xr-market-growth.md)
     * [XR Content Markets](current-market-overview/xr-ecosystems-overview/xr-content-markets.md)
