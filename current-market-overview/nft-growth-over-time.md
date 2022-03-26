@@ -1,4 +1,8 @@
-# NFTs Market
+---
+description: See how the NFT industry is growing over time
+---
+
+# NFT Growth Over Time
 
 ## Overview
 

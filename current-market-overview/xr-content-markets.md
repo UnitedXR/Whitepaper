@@ -1,10 +1,15 @@
-# XR Content Marketplaces
+---
+description: Quickly see how we compare to the other XR content marketplaces
+---
+
+# XR Content Markets
 
 Over 61 million pieces of XR content are available across various markets.\
 These statistics combine 3D models, videos, images, and audio files for sale and free.
 
 | Market          | Content Listed | Creators  | Marketplace Cut    |
 | --------------- | -------------- | --------- | ------------------ |
+| UnitedXR        | 0              | 0         | 0%                 |
 | Pond5           | 30,000,000     | 60,000    | 30%-60%            |
 | Shutterstock    | 24,000,000     | 1,000,000 | 60%-85%            |
 | Sketchfab       | 3,000,000      | 6,000,000 | 12%                |

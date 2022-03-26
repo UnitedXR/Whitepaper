@@ -1,14 +1,12 @@
 ---
-description: >-
-  You can refer to this page to quickly see how we compare to other established
-  XR creation ecosystems
+description: Quickly see how we compare to other XR creation tools
 ---
 
-# XR Ecosystems Overview
+# XR Creation Tools
 
 | Ecosystem       | Used By              | Price                                    | Available On         | Code          | Store         |
 | --------------- | -------------------- | ---------------------------------------- | -------------------- | ------------- | ------------- |
-| UnitedXR        | Everyone             | Free-Over-Time                           | Web, app             | Open-source   | Open Market   |
+| UnitedXR        | Everyone             | Free                                     | Web, app             | Open-source   | Open Market   |
 | BrandXR         | Everyday People      | $1000 per month                          | Web, app             | Closed-source | None          |
 | Vectary         | Creators             | Free - $12 per month                     | Web                  | Closed-source | None          |
 | Sketchfab       | Creators             | Free - $79 per month                     | Web, app             | Closed-source | Walled Garden |
