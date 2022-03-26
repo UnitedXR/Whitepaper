@@ -13,6 +13,6 @@ description: Quickly see how we compare to other established NFT markets
 | Rarible     | 2.5%         | 2.5%       | Allowed        | <p>Partially</p><p>open-source</p> | Ethereum, Flow, Tezos     |
 | Superare    | 15%          | 3%         | Not Allowed    | Closed-source                      | Ethereum                  |
 | Foundation  | 5%           | 5%         | Not Allowed    | Closed-source                      | Ethereum                  |
-| Mintable    |              |            |                |                                    |                           |
+| Mintable    | 5%           |            |                |                                    |                           |
 | MakersPlace |              |            |                |                                    |                           |
 | BlockParty  |              |            |                |                                    |                           |
