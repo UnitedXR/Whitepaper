@@ -14,5 +14,5 @@ description: Quickly see how we compare to other established NFT markets
 | Superare    | 15%          | 3%         | Not Allowed       | Closed-source                      | Ethereum                  |
 | Foundation  | 5%           | 5%         | Not Allowed       | Closed-source                      | Ethereum                  |
 | Mintable    | 2.5%-10%     | 0%         | Partially Allowed | Closed-source                      | Ethereum, Immutable-X     |
-| MakersPlace |              | 2.5%       |                   |                                    |                           |
+| MakersPlace | 0.5%         | 2.5%       | Not-Allowed       | Closed-source                      | Ethereum                  |
 | BlockParty  |              |            |                   |                                    |                           |
