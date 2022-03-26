@@ -1,5 +1,5 @@
 # Current Market Overview
 
-This section of the white paper contains a guide to the various NFT and XR creation ecosystems that exist.
+This section contains info on the various NFT markets, XR content markets, and XR creation tools.
 
-We can use this information to make see how we compare against the other ecosystems.
+We can use this information to make see how we compare against other ecosystems.
