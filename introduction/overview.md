@@ -6,7 +6,7 @@ UnitedXR provides tools that allow everyone to create XR NFTs and share or sell 
 
 Current NFT and XR content marketplaces are fragmented within multiple walled gardens using closed source code and take 2%-90% margin cut from sales. This market is ripe for disruption.
 
-Our marketplace uses our innovative Free-Over-Time system. This allows us to sell NFTs and XR content with a 0% margin cut taken.
+Our marketplace uses our innovative <mark style="color:green;">Free-Over-Time</mark> system. This allows us to sell NFTs and XR content with a 0% margin cut taken.
 
 Customers that buy NFTs and XR content benefit as well. Every time you buy something, we use Defi to pay you back. This makes everything you buy Free-Over-Time.
 
