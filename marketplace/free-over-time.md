@@ -1,9 +1,3 @@
----
-description: >-
-  Learn about how we offer the best deal in NFTs and XR content markets by
-  making everything Free-Over-Time for sellers and buyers.
----
-
 # Free-Over-Time
 
 ## What Is Free-Over-Time?
