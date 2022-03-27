@@ -25,8 +25,14 @@ For our marketplace, this means both sellers and buyers are paid back for everyt
 
 ### Buyers
 
-* Buyers purchase our tokens on the open market. This can be done via credit card.
-* After finding an item to buy
+* Buyers pay for content they want by buying our tokens on the open market or via credit card.
+* The seller is informed of the sale
+* The value from the sale is locked into a defi account to earn yield
+* The defi account earns yield for a set period of time (30, 60, 90, 120 days for example)
+* The original value from the sale is removed from defi and sent to the seller
+* The remaining value in defi remains until it has earned _**twice**_ the initial value from the sale
+* The original value is sent back to the customer, paying back their purchase in full
+* The rest of the value is pocketed by the UnitedXR DAo
 
 ## Where Did This Concept Come From?
 
