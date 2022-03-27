@@ -15,4 +15,4 @@ description: Quickly see how we compare to other established NFT markets
 | Foundation  | 5%           | 5%         | Not Allowed       | Closed-source                      | Ethereum                    |
 | Mintable    | 2.5%-10%     | 0%         | Partially Allowed | Closed-source                      | Ethereum, Immutable-X       |
 | MakersPlace | 0.5%         | 2.5%       | Not-Allowed       | Closed-source                      | Ethereum                    |
-| BlockParty  |              |            |                   |                                    | Ethereum, Blockparty, Flow  |
+| BlockParty  | Unknown      | Unknown    | Not-Allowed       | Closed-Source                      | Ethereum, Blockparty, Flow  |
