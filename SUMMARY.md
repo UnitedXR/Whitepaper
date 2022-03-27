@@ -15,4 +15,5 @@
   * [XR Content Markets](current-market-overview/xr-content-markets.md)
   * [XR Creation Tools](current-market-overview/xr-creation-tools.md)
   * [XR Growth Over Time](current-market-overview/xr-growth-over-time.md)
-* [UnitedXR Marketplace](unitedxr-marketplace.md)
+* [UnitedXR Marketplace](unitedxr-marketplace/README.md)
+  * [Free-Over-Time](unitedxr-marketplace/free-over-time.md)
