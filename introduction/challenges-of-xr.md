@@ -34,3 +34,4 @@ description: What are the issues groups face when using XR technology?
 * Not all content sold is optimized to work on low-end devices&#x20;
 * IP Theft is hard to prevent and solutions require cooperation&#x20;
 * Fairly sharing profits & equity is difficult in current Web2 solutions
+* Adult content isn't always possible to sell in traditional markets
