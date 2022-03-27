@@ -14,18 +14,15 @@ In order to be a public good, we are creating an ecosystem of XR products with t
   * File storage will use IPFS via the Filebase API
   * Data from the user is owned by the user
   * Our governance and tokens are decentralized by design
-* **Free-Over-Time**
-  * All services are effectively <mark style="color:green;">**free**</mark> to the user
-  * Marketplace uses Free-Over-Time economics to make the market effectively free for buyers and sellers.
-  * Sellers stake tokens based on estimated hosting costs
-  * We use staked tokens to generate yield via decentralized finance (Defi)
-  * Seller's costs are refunded to them over-time via the Defi yield
-  * Buyers purchase goods from sellers, and tokens are sent to Defi for a period of time before being passed to the seller. This yield generation is used to eventually pay back the purchasing price of the good to the customer.
+* **Free**
+  * Our XR creation tools are <mark style="color:green;">free</mark> for anyone to use
+  * Our XR NFT marketplace uses <mark style="color:green;">Free-Over-Time</mark> economics, the first to do this
+  * Buying and selling costs are paid back to users over time using defi
 * **Fairly Launched**
   * We will work with [Gitcoin](https://gitcoin.co), [Klima](https://klima.com), and other Impact DAOs to raise startup donations
   * We will prioritize paying back any startup costs covered directly by members
   * Selling UXR tokens prelaunch will only be done if absolutely necessary to pay for costs
-  * All pre-launch sold tokens will have clearly defined sell walls and lockup periods
+  * Any pre-launch sold tokens will have clearly defined sell walls and lockup periods
   * Our goal is to have all tokens sold to the community in a fair decentralized way
   * We plan to use [Copper](https://copperlaunch.com) to generate our fair value launched liquidity pools
 * **Publicly Owned**
