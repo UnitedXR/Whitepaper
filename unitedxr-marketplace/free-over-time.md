@@ -14,7 +14,19 @@ For our marketplace, this means both sellers and buyers are paid back for everyt
 
 ## How Does It Work?
 
+### Sellers
 
+* Sellers purchase some of our tokens on the open market for every item they want to list
+* The price per item is **twice** the expected amount to host and serve this content
+* _**Half**_ of the value is used to actually host and serve the content
+* The other _**half**_ is placed into a defi account to earn yield
+* Once the defi account has doubled, the original value is returned to the seller
+* The rest of the value is pocketed by the UnitedXR DAO
+
+### Buyers
+
+* Buyers purchase our tokens on the open market. This can be done via credit card.
+* After finding an item to buy
 
 ## Where Did This Concept Come From?
 
