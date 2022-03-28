@@ -1,4 +1,22 @@
-# Introduction
+# UnitedXR Intro
+
+{% hint style="success" %}
+**UnitedXR helps you make XR superpowered NFTs in three ways**
+
+**Create, Share, and Sell.**
+{% endhint %}
+
+## ✨Create
+
+> Easily create XR projects, no coding experience necessary!
+
+### The people's choice
+
+UnitedXR gives you the tools to let you easily create your own mobile-ready augmented reality NFT.
+
+### 100% free forever
+
+
 
 ## Summary
 
