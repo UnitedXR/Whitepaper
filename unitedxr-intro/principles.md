@@ -20,7 +20,7 @@ To spread this right to everyone, we need to create a marketplace that is as fre
 
 ## Mission
 
-Unite to build the global leading platform for digital projects that can appear in the real world for the public good.
+Unite to build a global and free marketplace for products that merges the real and digital worlds.
 
 ## Ideals
 
