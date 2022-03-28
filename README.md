@@ -3,7 +3,7 @@
 {% hint style="success" %}
 **UnitedXR helps you show digital products in the real world in three ways:**
 
-**Create, Earn, and Buy.**
+**Create, Earn, and Own.**
 {% endhint %}
 
 ## ✨Create
@@ -43,7 +43,7 @@ Yes, you read that right. 100% free... over time. Here's how it works:
 Customize your own product page to sell your brand. \
 You can choose from a multitude of options on how your products should be sold and used.
 
-## 🛒 Buy
+## 🛒 Own
 
 > Discover and buy products you actually own on our marketplace. Get paid back over time.
 

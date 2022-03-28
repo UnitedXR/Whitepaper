@@ -6,15 +6,15 @@ In everything we do, we believe we're strongest when <mark style="color:green;">
 
 The way we are united is by collaborating to propose and create public goods and sharing all the equity and profits fairly.
 
-We are uniting to build a free and publicly-owned platform to create, earn, and buy XR capable NFTs
+We are building a publicly owned platform to make it free for everyone to create, earn, and own digital projects that can be shown in the real world.
 
 ## Vision
 
-An unstoppable public ecosystem of products that allows everyone to freely create, earn, and buy XR content and projects.
+An unstoppable public ecosystem of products that allows everyone to freely create, earn, and own projects that can appear in the real world.
 
 ## Mission
 
-Unite to build the global leading platform for XR capable NFTs for the public good.
+Unite to build the global leading platform for digital projects that can appear in the real world for the public good.
 
 ## Ideals
 
