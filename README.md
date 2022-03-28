@@ -8,11 +8,11 @@
 
 ## ✨Create
 
-> Easily create products and bring them to life with augmented reality, no experience necessary!
+> Upload digital products and bring them to life with augmented reality, no experience necessary!
 
 ### The people's choice
 
-No need to learn programming to make your products come to life in 3D and augmented reality.
+Upload your own digital products for sale and show them in the real world via augmented reality.
 
 ### 100% free forever
 
@@ -20,11 +20,11 @@ Everything we make is free under the MIT license. Copy our code and do whatever.
 
 ### Decentralized
 
-You own your data, not us. Everything is safely stored on IPFS and retrieved via your wallet.
+You own your data, not us. All files are stored on distributed servers and retrieved via your wallet.
 
 ## 💸 Earn
 
-> Earn UXR and other tokens by selling your creations
+> Earn money by selling your creations
 
 ### Earn 100% of your sales
 
@@ -40,17 +40,15 @@ Yes, you read that right. 100% free... over time. Here's how it works:
 
 ### Customize Your Own Store
 
-Customize your own product page to sell your brand. \
-You can choose from a multitude of options on how your products should be sold and used.
+Customize your own storefront to sell your brand and make it easy for people to find you.
 
 ## 🛒 Own
 
-> Discover and buy products you actually own on our marketplace. Get paid back over time.
+> Discover and buy digital products you actually own on our marketplace. Get paid back over time.
 
 ### Own what you buy
 
-Everything bought is yours to keep, trade, or sell to others as an NFT.\
-Make sure you read how the seller is choosing to let you use the products though!
+Everything bought is yours to keep, trade, or sell to others.
 
 ### Free-Over-Time
 
@@ -83,7 +81,7 @@ Judge us by our actions, not just what we say.
   * We're a public good, working to improve all of humanity
   * Nobody owns us, our token is decentralized globally thanks to our fair-value launch
   * We donate a portion of our proceeds to other DAOs like Klima to stop Global Warming
-  * We use and support open-source game engines like Babylon.js, Three.js, and Godot
+  * We use and support open-source game engines development
 
 **Sounds Good?**\
 **Then let's** [<mark style="color:green;">**Unite on our Discord**</mark>](https://discord.com/invite/fV2SjJzEUr) **and create the future together!** 🦍🦄🦊

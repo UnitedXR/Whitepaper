@@ -6,17 +6,15 @@ In everything we do, we believe we're strongest when <mark style="color:green;">
 
 The way we are united is by collaborating to propose and create public goods and sharing all the equity and profits fairly.
 
-We are building a publicly owned platform to make it free for everyone to create, earn, and own digital projects that can be shown in the real world.
+Together we are building a publicly owned platform to make it free for everyone to create, earn, and own digital projects that can be shown in the real world.
 
 ## Vision
 
-Creating, earning, and ownership are fundamental human rights.
+Creating, earning, and ownership are fundamental human rights that everyone should enjoy.
 
 This is true in the real world, and it is true in the digital world.
 
-Someday, the lines between what is digital and what is real will become so blurred as to not matter.
-
-To spread this right to everyone, we need to create a marketplace that is as free as possible.
+To spread this right, the world needs a marketplace that is as free as possible for everyone to participate as equals.
 
 ## Mission
 
