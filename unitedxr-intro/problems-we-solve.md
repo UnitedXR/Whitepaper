@@ -11,8 +11,9 @@
 * No other marketplace makes it easy to view digital goods in the real world
 * Buyers in our marketplace actually get paid back for their shopping over time
 * Other digital marketplaces struggle to stop bad actors, whereas we've solved that issue
+* We do not require know-your-customer (KYC) checks like centralized markets do
 
 ### XR Players
 
-* Almost every XR player out there is closed source, we're the first global open standard
+* Almost every player is closed source, we're the first global open-source standard
 * Unlike older standards, we're super optimized for augmented reality on smartphones
