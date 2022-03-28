@@ -1,4 +1,4 @@
-# Free-Over-Time
+# 🆓 Free-Over-Time
 
 ## What Is Free-Over-Time?
 

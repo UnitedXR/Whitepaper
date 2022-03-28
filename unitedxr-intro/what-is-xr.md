@@ -1,4 +1,4 @@
-# What Is XR?
+# 🧊 What Is XR?
 
 XR stands for extended reality.
 

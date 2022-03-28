@@ -1,4 +1,4 @@
-# UnitedXR Intro
+# 🌎 UnitedXR Intro
 
 {% hint style="success" %}
 **UnitedXR helps you make XR superpowered NFTs in three ways**

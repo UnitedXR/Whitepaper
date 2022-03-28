@@ -2,7 +2,7 @@
 description: Why should existing Web2 XR ecosystems work together to build UnitedXR?
 ---
 
-# Why Work Together?
+# 🖖 Why Work Together?
 
 * As an open-source ecosystem, you can fork our code for your needs
 * Our code is auditable, so we're compatible with Web3 wallets and markets

@@ -2,7 +2,7 @@
 description: What are the issues groups face when using XR technology?
 ---
 
-# Challenges Of XR
+# ⛰ Challenges Of XR
 
 ## Challenges For Normal People
 

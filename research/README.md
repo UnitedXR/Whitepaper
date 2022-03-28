@@ -1,4 +1,4 @@
-# Current Market Overview
+# 🔍 Research
 
 This section contains info on the various NFT markets, XR content markets, and XR creation tools.
 

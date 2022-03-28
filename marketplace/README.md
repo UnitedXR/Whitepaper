@@ -1,4 +1,4 @@
-# Marketplace
+# 🛍 Marketplace
 
 The UnitedXR marketplace, like all of our products, strives to be <mark style="color:green;">free</mark>.
 
