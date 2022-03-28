@@ -3,7 +3,7 @@
 {% hint style="success" %}
 **UnitedXR helps you make XR superpowered NFTs in three ways**
 
-**Create, Share, and Sell.**
+**Create, Earn, and Buy.**
 {% endhint %}
 
 ## ✨Create
@@ -12,11 +12,52 @@
 
 ### The people's choice
 
-UnitedXR gives you the tools to let you easily create your own mobile-ready augmented reality NFT.
+No need to learn programming to make your own smartphone-ready 3D & AR NFTs.
 
 ### 100% free forever
 
+All of our creation tools are free under the MIT license. Copy, iterate, do whatever. Go crazy.
 
+### Decentralized
+
+You own your data, not us. Everything is safely stored on IPFS and retrieved via your wallet.
+
+## 💸 Earn
+
+> Earn UXR and other tokens by selling your creations
+
+### Earn 100% of your sales
+
+Sell your creations on our marketplace and earn 100% of what you make.
+
+### Free-Over-Time
+
+Listing your projects to sell requires a deposit, based on _**twice**_ the estimated costs for hosting. \
+We send half your deposit to our Defi partners to earn yield. Over time you get your deposit back.&#x20;
+
+### Customize Your Own Store
+
+Link buyers to your own customizable store page to help sell your brand. \
+Choose your royalty rates and how you want buyers to use your products.
+
+## 🛒 Buy
+
+> Discover and buy NFTs on our marketplace. Get paid back for all purchases over time
+
+### Own what you buy
+
+Everything sold is yours to keep forever. \
+Keep in mind that sellers can still limit what you're allowed to do with your purchases.
+
+### Free-Over-Time
+
+Buying products sends your money first to our Defi partners to earn yield. \
+After a period of time, it is then sent to the seller. \
+This time in Defi provides the capital to eventually get you back the cost of your purchase.
+
+### Buy with confidence
+
+Sellers on our marketplace face severe penalties for bad behavior, including doxing and having their staked tokens slashed.
 
 ## Summary
 
