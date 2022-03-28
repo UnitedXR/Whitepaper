@@ -3,8 +3,6 @@
 * [🌎 UnitedXR Intro](README.md)
   * [💚 Principles](unitedxr-intro/principles.md)
   * [🤔 Problems We Solve](unitedxr-intro/problems-we-solve.md)
-  * [🧊 What Is XR?](unitedxr-intro/what-is-xr.md)
-  * [🪚 Products](unitedxr-intro/products.md)
   * [🖖 Why Work Together?](unitedxr-intro/why-work-together.md)
 * [🔍 Research](research/README.md)
   * [⛰ Challenges Of XR](research/challenges-of-xr.md)
