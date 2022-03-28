@@ -10,7 +10,7 @@ We are building a publicly owned platform to make it free for everyone to create
 
 ## Vision
 
-An unstoppable public ecosystem of products that allows everyone to freely create, earn, and own projects that can appear in the real world.
+We will change the world to expect that buying and selling digital goods should be free and that digital goods can and should appear in the real world.
 
 ## Mission
 
