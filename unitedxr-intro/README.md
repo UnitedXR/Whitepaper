@@ -16,7 +16,7 @@ No need to learn programming to make your own smartphone-ready 3D & AR NFTs.
 
 ### 100% free forever
 
-All of our creation tools are free under the MIT license. Copy, iterate, do whatever. Go crazy.
+All of our tools are free under the MIT license. Fork our project and do whatever. Go crazy.
 
 ### Decentralized
 
@@ -58,6 +58,26 @@ This time in Defi provides the capital to eventually get you back the cost of yo
 ### Buy with confidence
 
 Sellers on our marketplace face severe penalties for bad behavior, including doxing and having their staked tokens slashed.
+
+## Is UnitedXR Trustworthy?
+
+Judge us by our actions, not just what we say.
+
+* Transparent:
+  * We're built on open-source software. \
+    Our code, white paper, and all Smart Contracts are visible on [Github](https://github.com/UnitedXR)
+* DAO Best Practices:
+  * Our token uses a fair-value launch model
+  * We use Aragon for our DAO management, using community audited treasury and voting
+  * Our Discord is open for anyone to join and see what we're up to
+* Public Good:
+  * We're a public good, working to improve all of humanity
+  * Nobody owns us, our token is decentralized globally thanks to our fair-value launch
+  * We donate a % of our proceeds to other Impact DAOs like Klima to stop Global Warming
+  * We support open-source game engines like Babylon.js, Three.js, and Godot
+
+**Sounds Good?**\
+**Then let's** [<mark style="color:green;">**Unite on our Discord**</mark>](https://discord.com/invite/fV2SjJzEUr) **and create the future together!**
 
 ## Summary
 
