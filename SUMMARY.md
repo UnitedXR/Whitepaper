@@ -4,6 +4,7 @@
   * [💚 Principles](unitedxr-intro/principles.md)
   * [🤔 Problems We Solve](unitedxr-intro/problems-we-solve.md)
 * [👉 Get Started](get-started.md)
+* [💬 Contact Us](contact-us.md)
 * [🔍 Research](research/README.md)
   * [⛰ Challenges Of XR](research/challenges-of-xr.md)
   * [NFT Markets](research/nft-markets.md)
