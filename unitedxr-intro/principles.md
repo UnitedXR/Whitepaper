@@ -10,7 +10,13 @@ We are building a publicly owned platform to make it free for everyone to create
 
 ## Vision
 
-We will change the world to expect that buying and selling digital goods should be free and that digital goods can and should appear in the real world.
+Creating, earning, and ownership are fundamental human rights.
+
+This is true in the real world, and it is true in the digital world.
+
+Someday, the lines between what is digital and what is real will become so blurred as to not matter.
+
+Digital financial markets allow us to earn large amounts of capital over time, and we should use this resource to make a global market exchange where all participants are paid back over time.
 
 ## Mission
 
