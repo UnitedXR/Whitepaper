@@ -1,23 +1,18 @@
 # 🤔 Problems We Solve
 
-### NFTs
+### Digital Products
 
-* You can't normally show NFTs in augmented reality on a smartphone
-* Combining multiple types of content into an NFT project is difficult
+* We make it easy to show digital goods in the real world using augmented reality
+* You can showcase multiple products as a single project and sell the collection
 
 ### Marketplaces
 
-* Most marketplaces take a royalty cut from sellers
-* There is no marketplace that makes it easy to sell XR capable NFTs
-* Current marketplaces don't pay you back for the money you spend
+* Unlike other marketplaces, sellers get 100% of their sales on our marketplace
+* No other marketplace makes it easy to view digital goods in the real world
+* Buyers in our marketplace actually get paid back for their shopping over time
+* Other digital marketplaces struggle to stop bad actors, whereas we've solved that issue
 
-### XR Project Player
+### XR Players
 
-* No open-source global standard
-* No player usable by everyone for free
-* Current players don't pass security audits due to closed-source
-
-### XR Creation Tools
-
-* Current tools either cost a lot of money or are limited to a social media platform
-* Most of the current tools are not made for everyday people to use
+* Almost every XR player out there is closed source, we're the first global open standard
+* Unlike older standards, we're super optimized for augmented reality on smartphones
