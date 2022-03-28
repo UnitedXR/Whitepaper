@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Why, How, What](README.md)
-* [UnitedXR Intro](unitedxr-intro/README.md)
+* [UnitedXR Intro](README.md)
+  * [Principles](unitedxr-intro/principles.md)
   * [Overview](unitedxr-intro/overview.md)
   * [What Unique Problems Are We Solving?](unitedxr-intro/what-unique-problems-are-we-solving.md)
-  * [Principles](unitedxr-intro/principles.md)
+  * [Principles](unitedxr-intro/principles-1.md)
   * [What Is XR?](unitedxr-intro/what-is-xr.md)
   * [Products](unitedxr-intro/products.md)
   * [Why Work Together?](unitedxr-intro/why-work-together.md)
