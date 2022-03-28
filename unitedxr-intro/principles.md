@@ -21,7 +21,7 @@ Unite to build the global leading platform for digital projects that can appear 
 * We believe we are stronger working together than competing against one another
 * We are a community, not a company
 * We believe in the power of public goods
-* Holding UXR shows commitment to this community and its public good
+* Holding our token shows commitment to this community and its public good
 * To be successful, the community should vote, propose, and block bad proposals
 * Community members are empowered to take UnitedXR in the direction they want
 * If you see something you want to be done, discuss it and propose a solution
