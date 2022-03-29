@@ -28,8 +28,7 @@ If you prefer to chat via Reddit, come join us over at r/UnitedXR.
 
 ## :robot: DAO
 
-Our current DAO uses Aragon Govern and is based on Ethereum. \
-We're looking into switching to reduce gas fees.
+Our current DAO uses Aragon Govern and is based on Ethereum.
 
 [<mark style="color:green;">Proposals Link</mark>](https://govern.aragon.org/#/daos/unitedxr/actions)
 
