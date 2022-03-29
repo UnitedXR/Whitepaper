@@ -18,6 +18,14 @@ Make sure to choose your spirit animal when you show up. :gorilla::unicorn::fox:
 
 [<mark style="color:green;">Discord Link</mark>](https://discord.com/invite/fV2SjJzEUr)<mark style="color:green;"></mark>
 
+## :alien: <mark style="color:green;"></mark> Reddit
+
+If you prefer to chat via Reddit, come join us over at r/UnitedXR.
+
+<mark style="color:green;"></mark>[<mark style="color:green;">Reddit Link</mark>](https://www.reddit.com/r/unitedxr/)<mark style="color:green;"></mark>
+
+{% embed url="https://www.reddit.com/r/unitedxr" %}
+
 ## :robot: DAO
 
 Our current DAO uses Aragon Govern and is based on Ethereum. \
