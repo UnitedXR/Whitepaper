@@ -6,6 +6,7 @@
 * [👉 Get Started](get-started.md)
 * [💬 Contact Us](contact-us/README.md)
   * [🧙♀ Customer Support](contact-us/customer-support.md)
+  * [👋 Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
 * [🔍 Research](research/README.md)
   * [⛰ Challenges Of XR](research/challenges-of-xr.md)
   * [NFT Markets](research/nft-markets.md)
