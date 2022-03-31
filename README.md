@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-Digital products include software, games, NFTs, 3D models, videos, images, audio, and books
+Digital products include software, games, 3D models, videos, images, audio, and books sold and purchased using non-fungible token (NFT) technology.
 {% endhint %}
 
 ## ✨Create
