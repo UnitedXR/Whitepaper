@@ -1,3 +1,3 @@
 # 💎 Apply To Sell
 
-\[Guide In Progress]
+\[GUIDE IN PROGRESS]
