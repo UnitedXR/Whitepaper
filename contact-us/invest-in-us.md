@@ -6,6 +6,11 @@
 * Our public launch will use a fair-value sale, likely on the [Copper Launch](https://copperlaunch.com) platform
 * If we fail to meet our minimum fundraising, we will refund as much as possible
 
+{% hint style="info" %}
+A fair-launch makes a token available for sale at the same time for the everybody. \
+No presale tokens are sold to early investors or staff.
+{% endhint %}
+
 Before the fair value public sale&#x20;
 
 * We _**cannot**_ sell our token before the public sale
