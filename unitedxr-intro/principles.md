@@ -18,7 +18,7 @@ To spread this right, the world needs a marketplace that is as free as possible 
 
 ## Mission
 
-Unite to build a global and free marketplace for products that merges the real and digital worlds.
+Unite to build a global and free marketplace for digital products.
 
 ## Ideals
 
