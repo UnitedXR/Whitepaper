@@ -14,21 +14,17 @@ Digital products include software, games, 3D models, videos, images, audio, and 
 
 > Upload digital media to sell on our marketplace as products, no experience necessary!
 
-### The people's choice
+### Showcase your products
 
-Upload your own digital products for sale easily and quickly.
-
-### 100% free forever
-
-Everything we make is free under the MIT license. Copy our code and do whatever. Go crazy.
-
-### Show products in the real world
-
-Bring your products to life by showing them in augmented reality using your phone.
+Visualize your products in 2D, 3D, or in the real world using augmented reality on your phone.
 
 ### Decentralized
 
 You own your data, not us. All files are stored on distributed servers and retrieved via your wallet.
+
+### 100% free forever
+
+Everything we make is free under the MIT license. Copy our code and do whatever. Go crazy
 
 ## 💸 Earn
 
