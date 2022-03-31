@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-Digital products include NFTs, software, 3D models, videos, images, audio, and books
+Digital products include software, games, NFTs, 3D models, videos, images, audio, and books
 {% endhint %}
 
 ## ✨Create
