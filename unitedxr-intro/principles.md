@@ -6,7 +6,7 @@ In everything we do, we believe we're strongest when <mark style="color:green;">
 
 The way we are united is by collaborating to propose and create public goods and sharing all the equity and profits fairly.
 
-Together we are building a publicly owned platform to make it free for everyone to create, earn, and own digital projects that can be shown in the real world.
+Together we are building a publicly owned platform to make it free for everyone to create, earn, and own digital projects.
 
 ## Vision
 

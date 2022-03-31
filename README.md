@@ -1,22 +1,30 @@
 # 🌎 UnitedXR Intro
 
 {% hint style="success" %}
-**UnitedXR helps you show digital products in the real world in three ways:**
+**UnitedXR helps you sell your digital products in three ways:**
 
 **Create, Earn, and Own.**
 {% endhint %}
 
+{% hint style="info" %}
+Digital products include NFTs, software, 3D models, videos, images, audio, and books
+{% endhint %}
+
 ## ✨Create
 
-> Upload digital products and bring them to life with augmented reality, no experience necessary!
+> Upload digital media to sell on our marketplace as products, no experience necessary!
 
 ### The people's choice
 
-Upload your own digital products for sale and show them in the real world via augmented reality.
+Upload your own digital products for sale easily and quickly.
 
 ### 100% free forever
 
 Everything we make is free under the MIT license. Copy our code and do whatever. Go crazy.
+
+### Show products in the real world
+
+Bring your products to life by showing them in augmented reality using your phone.
 
 ### Decentralized
 
