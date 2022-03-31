@@ -8,7 +8,7 @@
 
 Before the fair value public sale&#x20;
 
-* We _**cannot**_ sell our token to investors before the public sale
+* We _**cannot**_ sell our token before the public sale
 * We _**can**_ borrow money and pay back loans with interest
 * Unpaid work is paid back at _**twice**_ its value after a successful fair-value launch
 
