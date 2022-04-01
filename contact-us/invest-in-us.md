@@ -3,7 +3,7 @@
 > Like what we’re doing and want to invest in us? Here’s what you need to know.
 
 * We plan to incorporate with the British Virgin Islands
-* Our public launch will use a fair-value sale, likely on the [Copper Launch](https://copperlaunch.com) platform
+* Our public launch will use a fair-value sale, likely on the [<mark style="color:green;">Copper Launch</mark>](https://copperlaunch.com) platform
 * If we fail to meet our minimum fundraising, we will refund as much as possible
 
 {% hint style="info" %}
@@ -17,7 +17,7 @@ Before the fair value public sale&#x20;
 
 * We are _**minimizing**_ the sale of our tokens before the public sale
 * We _**can**_ borrow money and pay back loans with interest
-* Unpaid work is paid back at _**twice**_ its value after a successful fundraising
+* Unpaid work is eligible to be paid back at _**twice**_ its value after a successful fundraising
 * Minor funding (<$25k) is eligible for repayment at _**twice**_ the value after a successful fundraise
 * Major funding (>$25k) will need to have specific repayment terms agreed to by the community
 

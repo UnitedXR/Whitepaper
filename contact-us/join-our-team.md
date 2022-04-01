@@ -11,10 +11,10 @@ Approved and completed work is tracked and will be paid back at _**twice**_ the 
 However, if we fail to secure funding your work may remain unpaid permanently.
 
 Minor financial investments (<$25k) are also eligible for the same repayment agreement. \
-See the [Invest In Us page](invest-in-us.md) for more info.
+See the [<mark style="color:green;">Invest In Us page</mark>](invest-in-us.md) for more info.
 {% endhint %}
 
-Thanks to our relationship with the [Orlando Game Space](https://www.orlandogamespace.com), we have access to great front-end development talent. But there are plenty of full-time contributor roles we're missing within UnitedXR we're looking to fill.
+Thanks to our relationship with the [<mark style="color:green;">Orlando Game Space</mark>](https://www.orlandogamespace.com), we have access to great front-end development talent. But there are plenty of full-time contributor roles we're missing within UnitedXR we're looking to fill.
 
 For our full-time contributors, there are commonalities we look for.
 
@@ -22,7 +22,7 @@ For our full-time contributors, there are commonalities we look for.
 * Self-starters that like figuring things out
 * Great English communication skills (at least through writing, best if spoken as well)
 
-> If any of the roles below sound like you, contact us on our [Discord](https://discord.com/invite/fV2SjJzEUr).
+> If any of the roles below sound like you, contact us on our [<mark style="color:green;">Discord</mark>](https://discord.com/invite/fV2SjJzEUr).
 
 ### Lead Web3 Engineer
 

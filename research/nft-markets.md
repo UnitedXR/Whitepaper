@@ -2,7 +2,7 @@
 description: Quickly see how we compare to other established NFT markets
 ---
 
-# NFT Markets
+# 🖼 NFT Markets
 
 | Ecosystem   | Cut Of Sales | Buyer Fees | Adult Content?    | Code                               | Blockchain                  |
 | ----------- | ------------ | ---------- | ----------------- | ---------------------------------- | --------------------------- |
