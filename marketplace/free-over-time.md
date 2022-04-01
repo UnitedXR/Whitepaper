@@ -15,7 +15,7 @@ For our marketplace, this means both sellers and buyers are paid back for everyt
 * _**Half**_ of the value is used to actually host and serve the content
 * The other _**half**_ is placed into a defi account to earn yield
 * Once the defi account has doubled, the original value is returned to the seller
-* The rest of the value is pocketed by the UnitedXR DAO
+* The rest of the value is pocketed by the UnitedXR treasury
 
 ### 💳・Buyers
 
@@ -26,7 +26,7 @@ For our marketplace, this means both sellers and buyers are paid back for everyt
 * The original value from the sale is removed from defi and sent to the seller
 * The remaining value in defi remains until it has earned _**twice**_ the initial value from the sale
 * The original value is sent back to the customer, paying back their purchase in full
-* The rest of the value is pocketed by the UnitedXR DAO
+* The rest of the value is pocketed by the UnitedXR treasury
 
 ## Where Did This Concept Come From?
 

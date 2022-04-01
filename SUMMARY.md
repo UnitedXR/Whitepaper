@@ -7,7 +7,6 @@
 * [💬 Contact Us](contact-us/README.md)
   * [🏁 Invest In Us](contact-us/invest-in-us.md)
   * [💪 Join Our Team](contact-us/join-our-team.md)
-  * [💎 Apply To Sell](contact-us/apply-to-sell.md)
   * [👋 Social Communities](contact-us/social-communities.md)
   * [🧙♀ Customer Support](contact-us/customer-support.md)
 * [🔍 Research](research/README.md)
