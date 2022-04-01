@@ -7,13 +7,13 @@
 * If we fail to meet our minimum fundraising, we will refund as much as possible
 
 {% hint style="info" %}
-A fair-launch makes a token available for sale at the same time for the everybody. \
-No presale tokens are sold to early investors or staff.
+A fair launch makes a token available for sale at the same time for everybody. \
+Presale tokens must be minimized, with terms made public.
 {% endhint %}
 
 Before the fair value public sale&#x20;
 
-* We _**cannot**_ sell our token before the public sale
+* We are _**minimizing**_ the sale of our tokens before the public sale
 * We _**can**_ borrow money and pay back loans with interest
 * Unpaid work is paid back at _**twice**_ its value after a successful fair-value launch
 
