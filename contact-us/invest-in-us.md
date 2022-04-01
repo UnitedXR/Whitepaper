@@ -7,8 +7,10 @@
 * If we fail to meet our minimum fundraising, we will refund as much as possible
 
 {% hint style="info" %}
-A fair launch makes a token available for sale at the same time for everybody. \
-Presale tokens must be minimized, with terms made public.
+A fair launch aims to sell our token to as many people as possible to raise treasury funds and decentralize ownership globally.
+
+\
+Pre-selling tokens must be to aid our goal of getting us to our fair value public sale.
 {% endhint %}
 
 Before the fair value public sale&#x20;
@@ -16,7 +18,14 @@ Before the fair value public sale&#x20;
 * We are _**minimizing**_ the sale of our tokens before the public sale
 * We _**can**_ borrow money and pay back loans with interest
 * Unpaid work is paid back at _**twice**_ its value after a successful fundraising
-* Minor funding (<$25k) is also eligible for the same repayment at _**twice**_ the value
+* Minor funding (<$25k) is eligible for repayment at _**twice**_ the value after a successful fundraise
+* Major funding (>$25k) will need to have specific repayment terms agreed to by the community
+
+{% hint style="warning" %}
+Investing money is a financial risk. Never invest more than you can do without.
+
+There are no guarantees of repayment should our plans not work out.&#x20;
+{% endhint %}
 
 We are raising funding to pay for the following…
 
