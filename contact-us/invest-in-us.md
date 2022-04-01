@@ -15,7 +15,8 @@ Before the fair value public sale&#x20;
 
 * We are _**minimizing**_ the sale of our tokens before the public sale
 * We _**can**_ borrow money and pay back loans with interest
-* Unpaid work is paid back at _**twice**_ its value after a successful fair-value launch
+* Unpaid work is paid back at _**twice**_ its value after a successful fundraising
+* Minor funding (<$25k) is also eligible for the same repayment at _**twice**_ the value
 
 We are raising funding to pay for the following…
 
@@ -23,5 +24,6 @@ We are raising funding to pay for the following…
 * Incorporation & legal fees
 * Token sale liquidity
 * Prototypes
+* Payments to full-time members and bounties
 
 You can contact us on our [<mark style="color:green;">Discord</mark>](https://discord.com/invite/fV2SjJzEUr) or at [<mark style="color:green;">invest@unitedxr.org</mark>](mailto:invest@unitedxr.org)<mark style="color:green;"></mark>
