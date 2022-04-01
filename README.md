@@ -1,13 +1,13 @@
 # 🌎 UnitedXR Intro
 
 {% hint style="success" %}
-**UnitedXR helps you sell your digital products in three ways:**
+**UnitedXR helps you make use of your digital products in three ways:**
 
 **Create, Earn, and Own.**
 {% endhint %}
 
 {% hint style="info" %}
-Digital products include software, games, 3D models, videos, images, audio, and books sold and purchased using non-fungible token (NFT) technology.
+Digital products include software, games, 3D models, videos, images, audio, and books purchased and sold using non-fungible token (NFT) technology.
 {% endhint %}
 
 ## ✨Create
@@ -28,11 +28,11 @@ Everything we make is free under the MIT license. Copy our code and do whatever.
 
 ## 💸 Earn
 
-> Earn money by selling your creations
+> Earn money by selling your products.
 
 ### Earn 100% of your sales
 
-Sell your creations on our marketplace and earn 100% of what you make.
+Sell your products on our marketplace and earn 100% of what you make.
 
 ### Free-Over-Time
 
@@ -48,7 +48,7 @@ Customize your own storefront to sell your brand and make it easy for people to 
 
 ## 🛒 Own
 
-> Discover and buy digital products you actually own on our marketplace. Get paid back over time.
+> Discover and buy digital products you actually own on our marketplace.
 
 ### Own what you buy
 
@@ -85,7 +85,7 @@ Judge us by our actions, not just what we say.
   * We're a public good, working to improve all of humanity
   * Nobody owns us, our token is decentralized globally thanks to our fair-value launch
   * We donate a portion of our proceeds to other DAOs like Klima to stop Global Warming
-  * We use and support open-source game engines development
+  * We use and support open-source game engine development
 
 **Sounds Good?**\
 **Then let's** [<mark style="color:green;">**Unite on our Discord**</mark>](https://discord.com/invite/fV2SjJzEUr) **and create the future together!** 🦍🦄🦊
