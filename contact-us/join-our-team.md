@@ -10,7 +10,7 @@ Approved and completed work is tracked and will be paid back at _**twice**_ the 
 
 However, if we fail to secure funding your work may remain unpaid permanently.
 
-Minor funding from the public and members (<$10,000) qualifies for this same system.
+Minor funding (<$25k) is also eligible for the same repayment agreement.
 {% endhint %}
 
 ### Lead Web3 Engineer
