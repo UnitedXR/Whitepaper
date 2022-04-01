@@ -6,6 +6,8 @@
 
 ### <mark style="color:green;"></mark>[<mark style="color:green;">Join Our Team</mark>](join-our-team.md)<mark style="color:green;"></mark>
 
+### <mark style="color:green;"></mark>[<mark style="color:green;">Apply To Sell</mark>](apply-to-sell.md)<mark style="color:green;"></mark>
+
 #### Help!
 
 ### <mark style="color:green;"></mark>[<mark style="color:green;">Social Communities</mark>](social-communities.md)<mark style="color:green;"></mark>
