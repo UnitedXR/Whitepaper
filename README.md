@@ -1,7 +1,7 @@
 # 🌎 UnitedXR Intro
 
 {% hint style="success" %}
-**UnitedXR helps you make use of your digital products in three ways:**
+**UnitedXR helps free your digital products in three ways:**
 
 **Create, Earn, and Own.**
 {% endhint %}

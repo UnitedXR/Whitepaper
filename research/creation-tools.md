@@ -1,10 +1,10 @@
 ---
 description: >-
-  Quickly see how we compare to other tools that let you create augmented
-  reality or virtual reality content and products
+  Quickly see how we compare to other tools that let you create your own digital
+  products.
 ---
 
-# 👾 XR Creation Tools
+# 👾 Creation Tools
 
 | Ecosystem       | Used By              | Price                                    | Available On         | Code          | Store         |
 | --------------- | -------------------- | ---------------------------------------- | -------------------- | ------------- | ------------- |
