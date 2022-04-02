@@ -15,6 +15,6 @@
   * [📀 Digital Product Markets](research/digital-product-markets.md)
   * [😭 Challenges Of Digital Product Creation](research/challenges-of-digital-product-creation.md)
   * [👾 Creation Tools](research/creation-tools.md)
-  * [🆙 XR Growth Over Time](research/xr-growth-over-time.md)
+  * [🆙 Digital Growth Over Time](research/digital-growth-over-time.md)
 * [🛍 Marketplace](marketplace/README.md)
   * [🆓 Free-Over-Time](marketplace/free-over-time.md)

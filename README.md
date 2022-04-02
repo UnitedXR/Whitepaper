@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-Digital products include software, games, 3D models, videos, images, audio, and books purchased and sold using non-fungible token (NFT) technology.
+Digital products include software, games, 3D models, videos, images, audio, and books. Commonly summarized as the XR industry.
 {% endhint %}
 
 ## ✨Create

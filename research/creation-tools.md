@@ -1,7 +1,5 @@
 ---
-description: >-
-  Quickly see how we compare to other tools that let you create your own digital
-  products.
+description: Quickly see how various digital product creation tools differ.
 ---
 
 # 👾 Creation Tools
