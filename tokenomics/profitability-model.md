@@ -1,5 +1,9 @@
 # 💸 Profitability Model
 
+{% hint style="danger" %}
+**\[Guide In Progress]**
+{% endhint %}
+
 #### The chart below provides basic averaged estimates.
 
 | Product Type  | File Size                                                                                                                                                                                 | Permanent Store & Serve Cost | Non-Permanent Store & Serve Cost |
