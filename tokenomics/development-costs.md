@@ -1,20 +1,21 @@
 # 💼 Development Costs
 
-{% hint style="warning" %}
-**\[Guide in progress]**
-{% endhint %}
+UnitedXR has an expected full team size of around 16 full-time contributors.
 
-UnitedXR has an expected full team size of around 15 full-time contributors.
+At an average salary of $100k USD, this team should cost $1.6 million to operate yearly, \
+with a $133k monthly burn rate.
 
 * **Production**
   * 1 chief development director
+  * 1 investor relations manager
 * **Design**
-  * 1 lead UI/UX designer
+  * 1 lead designer
 * **Engineers**
   * 1 lead web3 engineer
   * 2 mid-level web3 engineers
-  * 1 senior front-end UI developer (Babylon.js)
-  * 3 mid-level front-end UI developers (Babylon.js)&#x20;
+  * 1 senior backend engineer
+  * 1 senior front-end UI developer
+  * 3 mid-level front-end UI developers
 * **Community**
   * 1 community manager
   * 1 moderator
