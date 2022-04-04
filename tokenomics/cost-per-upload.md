@@ -4,6 +4,9 @@
 
 All costs are passed on to the seller when a product is uploaded to our marketplace.
 
+We charge sellers **twice** the value of the upload costs seen here\
+and place the additional amount in a yield account to repay the seller.
+
 | Product Type  | File Size                                                                                                                                                                                 | Permanent Store & Serve Cost | Non-Permanent Store & Serve Cost |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------- |
 | PC games      | [100 GB](https://www.reddit.com/r/pcmasterrace/comments/q607n6/what\_is\_the\_average\_game\_file\_size\_for\_a\_modern/) per PC game                                                     | $950                         | $0.59                            |
