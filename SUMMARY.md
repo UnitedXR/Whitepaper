@@ -14,6 +14,7 @@
 * [⚖ Tokenomics](tokenomics/README.md)
   * [💸 Profit Per Sale](tokenomics/profit-per-sale.md)
   * [⛽ Cost Per Upload](tokenomics/cost-per-upload.md)
+  * [🔍 Customer Acquisition Costs](tokenomics/customer-acquisition-costs.md)
   * [💼 Development Costs](tokenomics/development-costs.md)
   * [📈 Growth Over Time](tokenomics/growth-over-time.md)
   * [🎩 Existing Investors](tokenomics/existing-investors/README.md)

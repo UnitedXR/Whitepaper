@@ -11,8 +11,7 @@ Our [<mark style="color:green;">team</mark>](development-costs.md) has an estima
 So for every 445k product sold on average, we should be able to pay a team member.
 
 At our optimal team size of 16 team members at a $1.6 million yearly cost, \
-we will need to sell more than 7 million digital products on average per year.
-
+we will need to sell more than 7 million digital products on average per year.\
 
 
 | Product Type       | Average Cost                                                                                                                                                                                                                                        | Value  |
