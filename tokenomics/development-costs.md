@@ -9,7 +9,7 @@ with a $133k monthly burn rate.
   * 1 chief development director
   * 1 investor relations manager
 * **Design**
-  * 1 lead designer
+  * 1 senior UI designer
 * **Engineers**
   * 1 lead web3 engineer
   * 2 mid-level web3 engineers

@@ -4,6 +4,17 @@
 
 The guide below assumes we hold the value of purchases from buyers for 30 days within a USDC decentralized finance pool at 12% APR (1% Monthly) before sending the value to the seller.
 
+From the data below, the median cost for a digital product is $22.50, \
+so holding that value in Defi for 30 days gives us an average revenue of $0.225 per sale.\
+\
+Our [<mark style="color:green;">team</mark>](development-costs.md) has an estimated payment of $100k per year.\
+So for every 445k product sold on average, we should be able to pay a team member.
+
+At our optimal team size of 16 team members at a $1.6 million yearly cost, \
+we will need to sell more than 7 million digital products on average per year.
+
+
+
 | Product Type       | Average Cost                                                                                                                                                                                                                                        | Value  |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Large PC games     | $60                                                                                                                                                                                                                                                 | $0.06  |
