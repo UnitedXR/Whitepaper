@@ -25,6 +25,7 @@
 * [🔍 Research](research/README.md)
   * [🖼 NFT Markets](research/nft-markets.md)
   * [📈 NFT Growth Over Time](research/nft-growth-over-time.md)
+  * [🎮 Digital Game Markets](research/digital-game-markets.md)
   * [📀 Digital Product Markets](research/digital-product-markets.md)
   * [😭 Challenges Of Digital Product Creation](research/challenges-of-digital-product-creation.md)
   * [👾 Creation Tools](research/creation-tools.md)
