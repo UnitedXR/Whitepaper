@@ -23,7 +23,7 @@
   * [🎣 Required Investments](tokenomics/required-investments.md)
   * [😇 Fair Value Sale](tokenomics/fair-value-sale.md)
 * [🔍 Research](research/README.md)
-  * [🪙 Stablecoin Liquidity Pools](research/stablecoin-liquidity-pools.md)
+  * [🪙 Stablecoin Lending APR](research/stablecoin-lending-apr.md)
   * [🖼 NFT Markets](research/nft-markets.md)
   * [📈 NFT Growth Over Time](research/nft-growth-over-time.md)
   * [🎮 Digital Game Markets](research/digital-game-markets.md)
