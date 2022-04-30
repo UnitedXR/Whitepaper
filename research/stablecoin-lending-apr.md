@@ -1,7 +1,5 @@
 # 🪙 Stablecoin Lending
 
-Supplying capital to stablecoin markets is the primary way we generate value for our treasury via our free-over-time system. Based on the markets when this research was conducted, the Terra-Luna algorithmic stablecoin on the Cosmos blockchain via the Anchor protocol is the best risk/reward.
-
 | Name | Chain               | Pool/Protocol    | APR %   |
 | ---- | ------------------- | ---------------- | ------- |
 | UST  | Terra-Luna (Cosmos) | Anchor           | 20%     |
