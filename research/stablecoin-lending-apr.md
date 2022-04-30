@@ -1,4 +1,4 @@
-# 🪙 Stablecoin Lending APR
+# 🪙 Stablecoin Lending
 
 | Name | Chain               | Pool/Protocol | APR %   | Insurance APR                                           |
 | ---- | ------------------- | ------------- | ------- | ------------------------------------------------------- |

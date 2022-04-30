@@ -1,7 +1,7 @@
 # 🏧 Defi Insurance
 
-| Name | Token | APR Cost |
-| ---- | ----- | -------- |
-|      |       |          |
-|      |       |          |
-|      |       |          |
+| Name         | Token | APR Cost |
+| ------------ | ----- | -------- |
+| Unslashed    |       |          |
+| Insurace     |       |          |
+| Nexus Mutual |       |          |
